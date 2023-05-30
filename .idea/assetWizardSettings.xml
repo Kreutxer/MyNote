@@ -79,7 +79,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="F:\Download\2606514_5853 [Converted].png" />
+                                                <entry key="imagePath" value="F:\Pictures\Profile\IMG20210513093652.jpg" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -107,6 +107,11 @@
                                           </PersistentState>
                                         </value>
                                       </entry>
+                                    </map>
+                                  </option>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="outputName" value="aaaaa" />
                                     </map>
                                   </option>
                                 </PersistentState>
